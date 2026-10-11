@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pypa/pipx/commit/7956a884e5fd7152791f090018aa79f0316df3bf",
       "git:hexsha": "7956a884e5fd7152791f090018aa79f0316df3bf",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.17.13"
     },
     {
